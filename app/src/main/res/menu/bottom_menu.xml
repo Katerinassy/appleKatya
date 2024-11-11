@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:id="@+id/home"
+        android:icon="@drawable/_643769_building_home_house_main_menu_start_113416_1__3_"/>
+    <item android:title="book"
+        android:id="@+id/book"
+        android:icon="@drawable/recipe_svgrepo_com_1__2_"
+      />
+    <item android:title="person"
+        android:id="@+id/person"
+        android:icon="@drawable/about"
+        />
+    <item android:title="love"
+        android:id="@+id/love"
+        android:icon="@drawable/like_svgrepo_com_1"/>
+</menu>
